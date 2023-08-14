@@ -1,0 +1,40 @@
+_repo: The-Yoga-Vasishtha-Maharamayana-of-Valmiki-Vol-4-of-4-Part-2-of-2_71249
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mitra, Viharilala
+    aliases:
+    - Mitra, Vihari-Lala
+    - Viharilala Mitra
+    - Rai Vihari Mitra Bahadur
+    gutenberg_agent_id: '43834'
+    url: http://www.gutenberg.org/2009/agents/43834
+creator:
+  author:
+    agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: https://en.wikipedia.org/wiki/Valmiki
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71249'
+language: en
+pgterms:marc905: 20080304192323valmiki
+pgterms:marc906: '1899'
+pgterms:marc907: IN
+production_note: Mark C. Orton, Juliet Sutherland, Édith Nolot, Krista Zaleski, windproof,
+  readbueno and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aIndia :$bLow Price Publications, $c1899, reprint 1999.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious life -- Hinduism -- Early works to 1800'
+- !lcsh 'Hinduism -- Doctrines -- Early works to 1800'
+- !lcc 'BL'
+- !lcc 'PK'
+- GITenberg
+title: The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 4 (of 4), Part 2 (of 2)
+url: http://www.gutenberg.org/ebooks/71249
